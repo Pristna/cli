@@ -1,5 +1,5 @@
 ---
-name: "\U0001F41B Bug report"
+name: ..."\U0001F41B Bug report"
 about: Report a bug or unexpected behavior while using GitHub CLI
 title: ''
 labels: bug
@@ -9,7 +9,7 @@ assignees: ''
 
 ### Describe the bug
 
-A clear and concise description of what the bug is. 
+A clear and concise description of what the bug is.only
 
 ### Affected version
 
